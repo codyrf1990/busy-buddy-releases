@@ -1,10 +1,10 @@
-# Teams Call Busy
+# Busy Buddy
 
 Sets your Microsoft Teams status to **Busy · In a call** while you're on a browser call (HubSpot calling in Chrome, Edge, Firefox, Brave, Comet, Helium and similar), and puts it back when you hang up. It lives in the Windows tray and updates itself.
 
 ## Install
 
-1. Download **[TeamsCallBusy-Setup.exe](https://github.com/codyrf1990/teams-call-busy-releases/releases/latest/download/TeamsCallBusy-Setup.exe)**.
+1. Download **[BusyBuddy-Setup.exe](https://github.com/codyrf1990/busy-buddy-releases/releases/latest/download/BusyBuddy-Setup.exe)**.
 2. Run it. It installs just for you (no admin rights needed).
 3. Windows SmartScreen may say "Windows protected your PC" because the installer isn't code-signed. Click **More info**, then **Run anyway**.
 4. Click the tray icon (green microphone, near the clock; it may sit under the **^** arrow) and press **Sign in**. Sign in with your work Microsoft account and accept the one permission it asks for.
@@ -25,7 +25,7 @@ The app checks this page about once an hour, verifies the download's checksum, a
 
 ## Uninstall
 
-Windows Settings > Apps > Teams Call Busy.
+Windows Settings > Apps > Busy Buddy.
 
 ---
 Releases only; the source is private.
